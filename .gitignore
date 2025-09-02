@@ -1,0 +1,3 @@
+# the files which want to be ignored 
+# not stored on git
+ignoreFolder/
